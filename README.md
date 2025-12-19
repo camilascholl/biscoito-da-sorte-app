@@ -1,16 +1,46 @@
-# fortune_cookie
+# 🍪 Biscoito da Sorte App
 
-A new Flutter project.
+Um aplicativo simples feito em **Flutter** que exibe frases motivacionais aleatórias, simulando um **biscoito da sorte**.  
+Ao abrir o app, uma frase já é sorteada automaticamente, e o usuário pode gerar novas frases usando o botão.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- 🎲 Sorteia uma frase aleatória automaticamente ao abrir o app  
+- ➕ Permite gerar novas frases com um botão  
+- 🎨 Interface simples usando Material Design  
+- 📦 Frases armazenadas localmente em uma lista  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tecnologias utilizadas
+
+- Flutter  
+- Dart  
+- Material Design  
+
+---
+
+## 🚀 Como executar o projeto
+
+### Pré-requisitos
+
+- Flutter instalado  
+- Android Studio, VS Code ou outro editor compatível  
+- Emulador ou dispositivo físico  
+
+### Passos
+
+```bash
+# Clonar o repositório
+git clone https://github.com/seu-usuario/biscoito-da-sorte-app.git
+
+# Entrar na pasta do projeto
+cd biscoito-da-sorte-app
+
+# Instalar as dependências
+flutter pub get
+
+# Executar o aplicativo
+flutter run
